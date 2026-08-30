@@ -20,12 +20,11 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parmesh-kumar-ai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parmesh.kumar.ai@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/parmesh-kumar-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theparmeshkumar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theparmeshkumar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8500-5593)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F5792A?style=for-the-badge&logo=vercel&logoColor=white)](https://parmesh-kumar-ai.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F5792A?style=for-the-badge&logo=vercel&logoColor=white)](https://theparmeshkumar.vercel.app/)
 [![ScienceOpen](https://img.shields.io/badge/ScienceOpen-08BD5F?style=for-the-badge&logo=SO&logoColor=white)](https://www.scienceopen.com/user/parmeshkumar)
 [![SSRN](https://img.shields.io/badge/SSRN-02004D?style=for-the-badge&logo=SSRN&logoColor=white)](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=11962568)
 [![Notion](https://img.shields.io/badge/Notion-BDBBBB?style=for-the-badge&logo=notion&logoColor=black)](https://parmesh-kumar-ai.notion.site/Parmesh-Kumar-2d3c2b872d5580eabcfcdc6762079dcf)
@@ -53,11 +52,11 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 
 <div align="center">
 
-[![GitHub Stats](https://stats-card.pages.dev/user?user=parmesh-kumar-ai&background=FFFFFF)](https://github.com/KasRoudra/github-stats-card)
+[![GitHub Stats](https://stats-card.pages.dev/user?user=theparmeshkumar&background=FFFFFF)](https://github.com/KasRoudra/github-stats-card)
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parmesh-kumar-ai&layout=compact&cache_seconds=1" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=theparmeshkumar&layout=compact&cache_seconds=1" 
     alt="Top Languages"
     width="400"
   />
@@ -65,14 +64,14 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 
 <!-- <p align="center"> -->
  <!--  <img  -->
-   <!--  src="https://github-readme-stats-fast.vercel.app/api?username=parmesh-kumar-ai&background=FFFFFF&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  -->
+   <!--  src="https://github-readme-stats-fast.vercel.app/api?username=theparmeshkumar&background=FFFFFF&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  -->
    <!--  alt="GitHub Conributions" -->
   <!--   width="400" -->
 <!--   /> -->
 <!-- </p> -->
 
-![]("https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parmesh-kumar-ai&show_icons=true&theme=swift&background=FFFFFF")<br/>
-![](https://streak-stats.demolab.com?user=parmesh-kumar-ai&stroke=0506A1&background=FFFFFF&ring=0506A1&fire=FFD900&hide_border=false)<br/>
+![]("https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theparmeshkumar&show_icons=true&theme=swift&background=FFFFFF")<br/>
+![](https://streak-stats.demolab.com?user=theparmeshkumar&stroke=0506A1&background=FFFFFF&ring=0506A1&fire=FFD900&hide_border=false)<br/>
 
 
 </div>
@@ -83,7 +82,7 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 
   <!-- Profile Views Counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=parmesh-kumar-ai&color=FFD000&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD900" />
+<img src="https://komarev.com/ghpvc/?username=theparmeshkumar&color=FFD000&style=for-the-badge&label=Current+Status+of+Profile+Visitors&color=FFD900" />
 </p>
 </div>
 
@@ -107,7 +106,7 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 
  <div align="center">
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=parmesh-kumar-ai&bg_color=ffffff&color=0506A1&line=0506A1&point=F00000&area=true&hide_border=true)](https://github.com/parmesh-kumar-ai)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=theparmeshkumar&bg_color=ffffff&color=0506A1&line=0506A1&point=F00000&area=true&hide_border=true)](https://github.com/theparmeshkumar)
 
 </td>
 
@@ -135,22 +134,22 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 <div align="center">
 
 ### 🏥 Advanced AI Medical Diagnosis System
-[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Advanced-AI-Medical-Diagnosis-System)
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/Advanced-AI-Medical-Diagnosis-System)
 
 An advanced AI-powered medical diagnosis and personalized dietary recommendations system [🔗Live](https://parmeshkumar.shinyapps.io/AdvancedAIMedicalDiagnosisSystem/)
 
 ### 🗒️ Sentiment SEBI Fraud Risk Dashboard
-[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Sentiment-SEBI-Fraud-Risk-Shiny-Dashboard)
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/Sentiment-SEBI-Fraud-Risk-Shiny-Dashboard)
 
 Interactive R Shiny dashboard for fraud risk analysis and sentiment tracking [🔗Live](https://parmeshkumar.shinyapps.io/sentiment-sebi-fraud-dashboard/)
 
 ### 🈸 Job Application Tracker
-[![Job Application Tracker](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/job-application-tracker)
+[![Job Application Tracker](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/job-application-tracker)
 
 Cloud-based job application tracking web app with real-time analytics using Firebase and Vanilla JS [🔗Live](https://job-application-tracker-5723b.web.app/)
 
 ### 📑 Vibrant Resume
-[![Vibrant Resume](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/vibrant-resume)
+[![Vibrant Resume](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/vibrant-resume)
 
 Advanced AI-based ATS-friendly resume building and optimizing web app with grammarly & Google Drive [🔗Live](https://vibrantresume.vercel.app/)
 
@@ -165,24 +164,24 @@ Advanced AI-based ATS-friendly resume building and optimizing web app with gramm
 <div align="center">
 
 ### 🛞 Tyre Inventory Manager
-[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/tyreinventorymanager)
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/tyreinventorymanager)
 
 Streamline automotive inventory (car tyres) management system for real-time tracking [🔗Live](https://tyremanager.vercel.app/)
 
 ### 🌐 The Moody Picasso (Website)
-[![The Moody Piasso](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/websitedevelopment)
+[![The Moody Piasso](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/websitedevelopment)
 
 Designed and deployed a commercial website with a modern design & interactive UI/UX to showcase products [🔗Live](https://www.themoodypicasso.com/)
 
 ### 🚗 Car Brand Type Classification
-[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/Car-Brand-Type-Classification)
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/Car-Brand-Type-Classification)
 
 Computer Vision model for car brand and type classification using R-programming language
 
 ### 🪪 Personal Portfolio
-[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmesh-kumar-ai/portfolio)
+[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/portfolio)
 
-Portfolio showcasing professional journey featuring dark/light mode and a highly responsive & interactive UI/UX [🔗Live](https://parmesh-kumar-ai.vercel.app/)
+Portfolio showcasing professional journey featuring dark/light mode and a highly responsive & interactive UI/UX [🔗Live](https://theparmeshkumar.vercel.app/)
 
 </div>
 
@@ -296,5 +295,5 @@ Portfolio showcasing professional journey featuring dark/light mode and a highly
 
 <!-- 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parmesh-kumar-ai&theme=default&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=theparmeshkumar&theme=default&no-frame=true&no-bg=false&margin-w=4)
 -->
