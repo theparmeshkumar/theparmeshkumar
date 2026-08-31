@@ -18,7 +18,7 @@ jobs:
 - name: Generate github-contribution-grid-snake.svg
         uses: Platane/svg@v3
         with:
-          github_user_name: parmesh-kumar-ai
+          github_user_name: theparmeshkumar
           outputs: |
            dist/github-contribution-grid-snake.svg?color_snake=%230506A1&color_dots=%23f3f4f6,%23c7d2fe,%238da2fb,%235469d4,%230506A1 
            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FFD900&color_dots=%23161b22,%230506A1,%235469d4,%238da2fb,%23FFD900
