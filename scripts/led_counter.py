@@ -2,7 +2,7 @@
 // and renders it as a 7-segment LED SVG, white theme, on every real visit.
 // No KV needed -- Komarev keeps doing the actual counting.
 
-const USERNAME = "parmesh-kumar-ai";
+const USERNAME = "theparmeshkumar";
 const W = 40, T = 6, H = 22, TOP_PAD = 14, LABEL_H = 22, LABEL_SIZE = 9;
 const ON_COLOR = "#0506A1";
 const OFF_COLOR = "#E5E7EB";
