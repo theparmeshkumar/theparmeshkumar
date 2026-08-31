@@ -374,7 +374,7 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
   still live: open https://komarev.com/ghpvc/?username=parmesh-kumar-ai , read
   the number, and put it in base= below to make the total continuous again.
 -->
-<img src="https://komarev.com/ghpvc/?username=theparmeshkumar&base=1374&label=Current+Status+of+Profile+Visitors&color=FFD900&style=for-the-badge" alt="Profile visitor count" />
+<img src="https://komarev.com/ghpvc/?username=theparmeshkumar&base=5002&label=Current+Status+of+Profile+Visitors&color=FFD900&style=for-the-badge" alt="Profile visitor count" />
 
 <!--
   Visitor counter 2 — your own Cloudflare Worker.
@@ -387,22 +387,6 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 
 </div>
 
-</td>
-
-</tr>
-</table>
-
----
-
-## 🧊 3D Contribution Calendar
-
-<div align="center">
-
-<img width="100%" src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D contribution calendar" />
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
@@ -423,6 +407,25 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 [![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theparmeshkumar&bg_color=ffffff&color=0506A1&line=0506A1&point=F00000&area=true&hide_border=true&radius=8&custom_title=Contribution%20Activity%20Graph)](https://github.com/theparmeshkumar)
 
 </div>
+
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<img width="100%" src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D contribution calendar" />
+
+</div>
+
+---
+
 
 ---
 
