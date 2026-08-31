@@ -374,7 +374,7 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
   still live: open https://komarev.com/ghpvc/?username=parmesh-kumar-ai , read
   the number, and put it in base= below to make the total continuous again.
 -->
-<img src="https://komarev.com/ghpvc/?username=theparmeshkumar&base=0&label=Current+Status+of+Profile+Visitors&color=FFD900&style=for-the-badge" alt="Profile visitor count" />
+<img src="https://komarev.com/ghpvc/?username=theparmeshkumar&base=1374&label=Current+Status+of+Profile+Visitors&color=FFD900&style=for-the-badge" alt="Profile visitor count" />
 
 <!--
   Visitor counter 2 — your own Cloudflare Worker.
