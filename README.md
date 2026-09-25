@@ -132,6 +132,11 @@ I cherish breaking down complex scientific ideas into simple explanations and ac
 
 <div align="center">
 
+### 📑 VoiceClone AI Studio
+[![Vibrant Resume](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/voicecloneai)
+
+Voice cloning application that clones and creates the audio file by using neural audio generation [🔗Live](https://voicecloneai.onrender.com/)
+
 ### 🏥 Advanced AI Medical Diagnosis System
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/Advanced-AI-Medical-Diagnosis-System)
 
@@ -147,12 +152,6 @@ Interactive R Shiny dashboard for fraud risk analysis and sentiment tracking [�
 
 Cloud-based job application tracking web app with real-time analytics using Firebase and Vanilla JS [🔗Live](https://job-application-tracker-5723b.web.app/)
 
-### 📑 Vibrant Resume
-[![Vibrant Resume](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/vibrant-resume)
-
-Advanced AI-based ATS-friendly resume building and optimizing web app with grammarly & Google Drive [🔗Live](https://vibrantresume.vercel.app/)
-
-
 </div>
 
 </td>
@@ -161,6 +160,11 @@ Advanced AI-based ATS-friendly resume building and optimizing web app with gramm
 <td width="52%" valign="top">
 
 <div align="center">
+
+### 📑 Vibrant Resume
+[![Vibrant Resume](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/vibrant-resume)
+
+Advanced AI-based ATS-friendly resume building and optimizing web app with grammarly & Google Drive [🔗Live](https://vibrantresume.vercel.app/)
 
 ### 🛞 Tyre Inventory Manager
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/tyreinventorymanager)
@@ -176,11 +180,6 @@ Designed and deployed a commercial website with a modern design & interactive UI
 [![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/Car-Brand-Type-Classification)
 
 Computer Vision model for car brand and type classification using R-programming language
-
-### 🪪 Personal Portfolio
-[![View Repository](https://img.shields.io/badge/View_Repository-0506A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theparmeshkumar/portfolio)
-
-Portfolio showcasing professional journey featuring dark/light mode and a highly responsive & interactive UI/UX [🔗Live](https://theparmeshkumar.vercel.app/)
 
 </div>
 
